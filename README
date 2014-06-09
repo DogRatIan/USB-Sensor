@@ -1,0 +1,18 @@
+This is utility that running on a Android device to read the temperature and humidity from a USB sensor.
+
+Please visit
+    http://www.dogratian.com:8080/products
+for more detail about the sensor.
+
+
+How to compile?
+    1) Install the QT (5.2 or higher)
+    2) Open the project with the installed QT Creator.
+    3) Config the "Build Settings" as "Android for armeabi-v7a (Release)".
+    4) Build then Deploy it to your Android Phone.
+
+    You may found more detail on Qt Project website (http://qt-project.org/doc/qt-5/android-support.html)
+
+
+Android requirement
+    As the program used "UsbManager", a Android API 12 (3.1 Honeycomb) or higher is needed.
