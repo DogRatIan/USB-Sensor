@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>asset/background.jpg</file>
+        <file>asset/link.png</file>
+        <file>asset/link_broken.png</file>
+        <file>asset/cross.png</file>
+        <file>qml/dogratian/ImageButton.qml</file>
+        <file>asset/document.png</file>
+    </qresource>
+</RCC>
